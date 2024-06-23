@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Tenghui Wang, a Post-doctoral fellow at The University of Hong Kong. I received my Ph.D in Finance from Peking University.
+Welcome! I'm Tenghui Wang, a Post-doctoral fellow at The University of Hong Kong. I received my Ph.D in Finance from Peking University.
 
 My research lies in empirical corporate finance, development economics under an ESG framework.
 
