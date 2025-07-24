@@ -36,7 +36,7 @@ Working Papers
 
 Funding
 ---
-- Early Career Scheme, RGC HK, 2026-2028
+- ECS, RGC HK, 2026-2028
 
 Teaching
 ---
