@@ -22,7 +22,7 @@ Research Interests
 
 Publications
 ---
-- 
+- "Impact of Women's Political Empowerment through Gender Quotas on Improved Drinking Water Access in Africa" (with Chen Lin, Jiafu An, Nils Chr. Stenseth, Bin Chen, Peng Gong), \textbf{\textit{Proceedings of the National Academy of Sciences (PNAS)}}, 2025, 122(30): e2511977122.}[Link](https://www.pnas.org/doi/10.1073/pnas.2511977122) 
 -
 -
 -
