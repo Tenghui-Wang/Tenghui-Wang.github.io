@@ -18,7 +18,7 @@ Research Interests
 - Development economics (gender inequality)
 - Public policy
 
-Publication
+Publications
 ---
 - Impact of Women's Political Empowerment through Gender Quotas on Improved Drinking Water Access in Africa (with Chen Lin, Jiafu An, Nils Chr. Stenseth, Bin Chen, and Peng Gong), **_Proceedings of the National Academy of Sciences (PNAS)_**, 2025, 122(30): e2511977122. [[Link]](https://www.pnas.org/doi/10.1073/pnas.2511977122)
 - Mental Health of Residents of Ukraine Exposed to the Russia-Ukraine Conflict (with Jiafu An, Chen Lin, Bin Chen, and Anatoly Oleksiyenko), **_JAMA Network Open_**, 2025, 8(2): e2459318. [[Link]](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830228?guestAccessKey=b5a86f00-2de9-4f88-a83a-281f113a5afb&utm_source=jps&utm_medium=email&utm_campaign=author_alert-jamanetwork&utm_content=author-author_engagement&utm_term=1m)
