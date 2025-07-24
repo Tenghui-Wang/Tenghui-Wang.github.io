@@ -1,7 +1,7 @@
 ---
 permalink: /
 author_profile: true
-title: ""
+title: "Tenghui WANG (王腾慧)"
 redirect_from: 
   - /about/
   - /about.html
@@ -9,7 +9,7 @@ redirect_from:
 
 About Me
 ---
-Welcome! I'm Tenghui Wang, a Research Assistant Professor in the Department of Finance at Lingnan University. I obtained my PhD in Finance from Peking University, and Bachelor's Degree from Beijing Normal University.
+Welcome! Currently, I am a Research Assistant Professor in the Department of Finance at Lingnan University. I obtained my PhD in Finance from Peking University, and Bachelor's Degree from Beijing Normal University.
 
 Contact me: [tenghui.wangth@gmail.com](mailto:tenghui.wangth@gmail.com)
 
