@@ -1,7 +1,7 @@
 ---
 permalink: /
 author_profile: true
-title: "Tenghui WANG (王腾慧)"
+title: "Tenghui WANG (王騰慧)"
 redirect_from: 
   - /about/
   - /about.html
