@@ -1,13 +1,13 @@
 # Basic Site Settings
 locale                   : "Hong Kong"
 site_theme               : "default"
-title                    : "Tenghui WANG (王騰慧)"
+title                    : "Tenghui Wang"
 
 # Site Author
 author:
   # Biographic information
   avatar           : "WechatIMG103.jpg"
-  name             : "Tenghui WANG"
+  name             : "Tenghui Wang (王騰慧)"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : "Hong Kong"
