@@ -29,7 +29,7 @@ Publications
 
 Working Papers
 ---
-- In Utero Exposure to Extreme Heat Increases Neonatal Mortality (with Chen Lin, Jiafu An, Chris Webster, Peng Gong, and Bin Chen), <ins>_Accepted at PNAS Nexus._</ins>
+- In Utero Exposure to Extreme Heat Increases Neonatal Mortality (with Chen Lin, Jiafu An, Chris Webster, Peng Gong, and Bin Chen), **Accepted at _PNAS Nexus._**
 - Optimizing Policy Design—Evidence from a Large-scale Staged Fiscal Stimulus Program in the Field (with Qiao Liu, Qiaowei Shen, Zhenhua Li, and Shu Chen) [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4675785)
   - _Zhongnan University of Economics and Law (2024), 2025 CICF, 2025 AsianFA, 2025 FMA Annual Meeting (scheduled)_ 
 - Social Identity and Backfire: The Unintended Effect of Behavioral Interventions on Gig Workers (with Qiao Liu, Juanjuan Meng, and Zheng Zhang)
