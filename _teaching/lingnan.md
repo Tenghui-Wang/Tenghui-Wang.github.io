@@ -1,6 +1,5 @@
 ---
 collection: teaching
-permalink: /teaching/lingnan
 ---
 
 Lingnan University
