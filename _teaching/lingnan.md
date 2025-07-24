@@ -1,5 +1,5 @@
 ---
-collection: teaching
+title: "Teaching Experience"
 ---
 
 Lingnan University
