@@ -155,7 +155,7 @@ kramdown:
 collections:
   teaching:
     output: true
-    permalink: /:collection/:path/
+    permalink: /teaching/lingnan/
   publications:
     output: true
     permalink: /:collection/:path/
