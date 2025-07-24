@@ -2,6 +2,7 @@
 layout: archive
 permalink: /teach/
 author_profile: true
+Title: Teaching Experience
 ---
 
 Lingnan University
