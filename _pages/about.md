@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Research Assistant Professor in the Department of Finance at Lingnan University. I obtained my PhD in Finance from Peking University, and Bachelor's Degree from Beijing Normal University.
+Welcome! I am a Research Assistant Professor in the Department of Finance at Lingnan University. I obtained my Ph.D in Finance from Peking University, and Bachelor's Degree from Beijing Normal University.
 
 Contact me: [tenghui.wangth@gmail.com](mailto:tenghui.wangth@gmail.com)
 
