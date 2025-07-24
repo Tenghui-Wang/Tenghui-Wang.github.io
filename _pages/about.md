@@ -1,6 +1,7 @@
 ---
 permalink: /
 author_profile: true
+title: ""
 redirect_from: 
   - /about/
   - /about.html
@@ -18,3 +19,20 @@ Research Interests
 - Sustainable financial ecnomics (climate change and environmental injustice, ESG)
 - Development economics (gender inequality)
 - Public policy
+
+Publications
+---
+- 
+-
+-
+-
+-
+
+Funding
+---
+- Early Career Scheme, RGC HK, 2026-2028
+
+Teaching
+---
+- Management of Financial Institutions (UD), LNU, 2024
+- Private Equity and Venture Capital (MS), LNU, 2025
