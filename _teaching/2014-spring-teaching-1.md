@@ -1,3 +1,9 @@
+---
+collection: teaching
+type: "Workshop"
+permalink: /teaching/lingnan
+---
+
 Lingnan University
 ======
 - Management of Financial Institutions (UD), 2024, 2025
