@@ -1,8 +1,13 @@
+# Basic Site Settings
+locale                   : "Hong Kong"
+site_theme               : "default"
+title                    : ""
+
 # Site Author
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Tenghui Wang"
+  name             : "Tenghui WANG"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : "Hong Kong"
