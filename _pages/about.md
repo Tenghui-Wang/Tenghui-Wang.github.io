@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm Tenghui Wang, a Post-doctoral fellow at The University of Hong Kong. I received my Ph.D in Finance from Peking University.
+Welcome! I'm Tenghui Wang, a Research Assistant Professor in the Department of Finance at Lingnan University. I obtained my PhD in Finance from Peking University, and Bachelor's Degree from Beijing Normal University.
 
-My research lies in empirical corporate finance, development economics under an ESG framework.
-
-Contact me: [wangth@hku.hk](mailto:wangth@hku.hk)
+Contact me: [email](mailto:tenghui.wangth@gmail.com)
