@@ -45,7 +45,7 @@ Chinese Publications
 - [Does Bank-affiliated Money Market Fund Have Performance Advantage](https://chn.oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CCJD&filename=JKJR202001003&dbname=CCJDLAST2), with Ruichang Lu and Xiaojun Zhang
   - **_金融学季刊_**, 2020, 14(01): 45-66.
     
-Funding
+Research Grant
 ---
 - 2024/25 Early Career Scheme (PI), RGC HK, 2026-2028
 
