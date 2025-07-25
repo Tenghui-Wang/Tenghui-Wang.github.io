@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! 
+Welcome to my webpage! 
 
 I am a Research Assistant Professor in the Department of Finance at Lingnan University since 2024. I obtained my Ph.D in Finance from Guanghua School of Management, Peking University, and B.A. in Finance from Beijing Normal University.
 
