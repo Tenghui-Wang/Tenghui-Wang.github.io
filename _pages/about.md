@@ -47,7 +47,7 @@ Chinese Publications
     
 Research Grant
 ---
-- 2024/25 Early Career Scheme (PI), Research Grants Council (HKSAR), 2026-2027, ongoing
+- 2024/25 Early Career Scheme (PI), Research Grants Council (HKSAR), ongoing
 
 Teaching
 ---
