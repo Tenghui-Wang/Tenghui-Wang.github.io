@@ -51,5 +51,5 @@ Funding
 
 Teaching
 ---
-- Management of Financial Institutions (UD) @ LNU, Fall 2024, 2025
-- Private Equity and Venture Capital (MS) @ LNU, Spring 2025
+- Management of Financial Institutions (UD@LNU), Fall 2024, 2025
+- Private Equity and Venture Capital (MS@LNU), Spring 2025
